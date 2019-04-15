@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mentoring.System.Extensions", "Mentoring.System.Extensions\Mentoring.System.Extensions.csproj", "{FD582CBA-E148-4AA0-8D79-9CC2134F24D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mentoring.System.Extensions.Tests", "Mentoring.System.Extensions.Tests\Mentoring.System.Extensions.Tests.csproj", "{721985FF-F95A-4EF3-875E-51EE13A296AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD582CBA-E148-4AA0-8D79-9CC2134F24D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD582CBA-E148-4AA0-8D79-9CC2134F24D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD582CBA-E148-4AA0-8D79-9CC2134F24D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD582CBA-E148-4AA0-8D79-9CC2134F24D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{721985FF-F95A-4EF3-875E-51EE13A296AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721985FF-F95A-4EF3-875E-51EE13A296AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721985FF-F95A-4EF3-875E-51EE13A296AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721985FF-F95A-4EF3-875E-51EE13A296AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD2B9933-610A-461B-B0EF-A6374E8893C5}
+	EndGlobalSection
+EndGlobal
