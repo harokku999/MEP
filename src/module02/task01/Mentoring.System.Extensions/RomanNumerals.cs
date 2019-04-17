@@ -25,7 +25,6 @@ namespace Mentoring.System.Extensions
 
         private static int GetClosest(int number) => ArabicToRomanMapping.Keys.Where(i => i <= number).Max();
 
-
         public static string ToRoman(this int number)
         {
             if (number <= 0 || number >= 4000)
