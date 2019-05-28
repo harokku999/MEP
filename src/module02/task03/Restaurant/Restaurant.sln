@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.156
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.Mep.Restaurant", "Restaurant\Epam.Mep.Restaurant.csproj", "{EFDFDA1C-AFE8-42B8-8120-83237441C57B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Epam.Mep.Restaurant", "Restaurant\Epam.Mep.Restaurant.csproj", "{EFDFDA1C-AFE8-42B8-8120-83237441C57B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.Mep.Restaurant.Test", "Epam.Mep.Restaurant.Test\Epam.Mep.Restaurant.Test.csproj", "{06D91284-9ECB-4898-AB21-FDCE49AB64BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{EFDFDA1C-AFE8-42B8-8120-83237441C57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFDFDA1C-AFE8-42B8-8120-83237441C57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFDFDA1C-AFE8-42B8-8120-83237441C57B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06D91284-9ECB-4898-AB21-FDCE49AB64BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D91284-9ECB-4898-AB21-FDCE49AB64BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D91284-9ECB-4898-AB21-FDCE49AB64BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D91284-9ECB-4898-AB21-FDCE49AB64BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
